@@ -1,0 +1,10 @@
+<resources>
+    <string name="AppName">Your Database</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="button">Button</string>
+    <string name="Name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="Login">Login</string>
+    <string name="press_to_login">Press to login</string>
+    <string name="Password">Password</string>
+</resources>
